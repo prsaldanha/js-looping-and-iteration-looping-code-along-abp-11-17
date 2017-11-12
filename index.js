@@ -7,3 +7,8 @@ function printBadges (items) {
 
   return items;
 }
+
+function tailsNeverFails()
+{
+  
+}
