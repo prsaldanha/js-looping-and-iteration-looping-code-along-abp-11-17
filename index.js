@@ -1,9 +1,9 @@
-// Code your solutions in this file
-function printBadges(names)
-{
-  for (int i=0; i < names.length; i++)
-  {
-  console.log(names[i]);
+const names = ['teddy bear', 'drone', 'doll'];
+ 
+function wrapGifts (names) {
+  for (let i = 0; i < gifts.length; i++) {
+    console.log(`Wrapped ${gifts[i]} and added a bow!`);
   }
+ 
+  return gifts;
 }
-//return names;
