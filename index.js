@@ -1,8 +1,8 @@
 const names = ['teddy bear', 'drone', 'doll'];
 
-function wrapGifts () {
+function printBadges () {
   for (let i = 0; i < names.length; i++) {
-    console.log(`Wrapped ${names[i]} and added a bow!`);
+    console.log('Welcome ${names[i]}! You are employee #${i}.);
   }
 
   return names;
